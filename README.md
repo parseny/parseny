@@ -18,8 +18,10 @@
 <div align="center">
   <h2>⚡ GitHub Stats</h2>
   <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=parseny&show_icons=true&theme=radical" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=parseny&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=parseny&show_icons=true&theme=radical" />
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parseny&theme=radical" />
   </p>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parseny&layout=compact&theme=radical" />
