@@ -7,7 +7,8 @@
 
 - 🎓 I graduated with a Computer Science degree from the Higher School of Economics in St. Petersburg, Russia.
 - 💻 EX Center of Econometrics and Business Analytics resercher, St. Petersburg State University.
-- 💻 Huawei R&D NLP researcher.
+- 💻 EX Huawei R&D NLP researcher.
+- 💻 Raft Digital Solutions, Data Scientist
 - 📫 How to reach me: `parseny@mail.ru` or Telegram `@parseny`
 
 <br>
